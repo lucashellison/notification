@@ -1,5 +1,5 @@
 {
-    "name": "lucas/notification",
+    "name": "lucashellison/notification",
     "description": "This is a library that uses composer as the basis for generating email notifications",
     "type": "library",
     "license": "MIT",
